@@ -5,7 +5,8 @@ header {
     top:0;
     width:99%;
     height: 50px;
-    background:black;    
+    background-image: linear-gradient(black, gray);
+;    
 }
 li{
     display: inline;
@@ -18,9 +19,8 @@ a {
     color: white;
 }
 body {
-    text-align: center;
-    background-color: rgb(50, 50, 50);
-    color:white;
+    background-image:url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/2118440/original/55/send-100-high-resolution-web-background-1920x1200.jpg');
+    background-size:cover;
 }
 
 footer {
@@ -35,9 +35,13 @@ footer {
 
  h1{
      text-align: center;
+     background-color: rgba(25, 25, 25, 0.8);
+     color:white;
  }
 
  p{
      text-align: justify;
+     background-color: rgba(25, 25, 25, 0.8);
+     color:white;
  }
  
